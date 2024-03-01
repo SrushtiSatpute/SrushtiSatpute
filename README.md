@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there 🙋
+---
 
-<!--
-**SrushtiSatpute/SrushtiSatpute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻  About Me :
 
-Here are some ideas to get you started:
+I’m Srushti, a data analyst with a knack for turning raw data into actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Querying data using SQL. 
+-  Generate reports and perform ad-hoc data analysis using SQL,Python and Excel.
+-  Developing dashboards on Tableau.
+
+
+
+
+🛠️ Tools
+
+
+- Language: SQL, Python
+- Database: MySQL, Sqlite
+- Visualization: Tableau, Excel
+
+
+
+👋🏻 Connect with Me
+
+[![Linkedin Badge](https://img.shields.io/badge/-Srushti-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/srushti-satpute-532b67290)
+
+
