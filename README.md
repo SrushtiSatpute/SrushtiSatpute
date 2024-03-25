@@ -23,6 +23,6 @@
 
 👋🏻 **Connect with Me:**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Srushti-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/srushti-satpute-532b67290)
+[![Linkedin Badge](https://img.shields.io/badge/-Srushti-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/srushti-satpute)
 
 
