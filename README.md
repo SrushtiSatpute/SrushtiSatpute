@@ -16,8 +16,8 @@
 
 
 - *Language: SQL, Python*
-- *Database: MySQL, Sqlite*
-- *Visualization: Tableau, Excel*
+- *Database: MySQL*
+- *Visualization: Tableau, PowerBI, Excel*
 
 
 
